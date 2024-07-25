@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.navbar {
+.nav {
     background-color: #e2bfbf;
     overflow: hidden;
 }
 
-.navbar a {
+.nav a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
     float: right;
     display: block;
@@ -18,7 +18,7 @@ body {
     text-decoration: none;
 }
 
-.navbar a:hover {
+.nav a:hover {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
     background-color: #ddd;
     color: #9a133e;
