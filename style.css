@@ -29,3 +29,8 @@ h1{
 img{
     filter: blur(5px);
 }
+
+a{
+    text-decoration: solid;
+    color: crimson;
+}
